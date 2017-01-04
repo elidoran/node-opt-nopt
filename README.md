@@ -8,9 +8,9 @@ Plugin for @opt/parse making nopt the parser.
 
 See [@opt/parse](https://www.npmjs.com/package/@opt/parse)
 
-See [@opt/parse](https://www.npmjs.com/package/nopt)
+See [@opt/nopt](https://www.npmjs.com/package/nopt)
 
-See [@opt/parse](https://www.npmjs.com/package/@use/core)
+See [@use/core](https://www.npmjs.com/package/@use/core)
 
 
 ## Install
