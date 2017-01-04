@@ -1,6 +1,6 @@
 {
   "name": "@opt/nopt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin for @opt/parse making nopt the parser",
   "main": "lib",
   "keywords": [
